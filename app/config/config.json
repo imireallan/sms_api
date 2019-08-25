@@ -1,17 +1,17 @@
 {
   "development": {
     "username": "root",
-    "password": "HicEV77Rk7h6A3YsMvaM",
+    "password": "tanesha",
     "database": "sms",
-    "host": "sms.cefjbgrmyi34.us-west-2.rds.amazonaws.com",
+    "host": "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": "HicEV77Rk7h6A3YsMvaM",
-    "database": "sms",
-    "host": "sms.cefjbgrmyi34.us-west-2.rds.amazonaws.com",
+    "username": "fjkinwjogh1a3m3j",
+    "password": "zyskudu4ph58ukzf",
+    "database": "rhgvbuzbh9zvs1zv",
+    "host": "ocvwlym0zv3tcn68.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
     "operatorsAliases": false
   }
