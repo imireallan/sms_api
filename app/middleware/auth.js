@@ -8,7 +8,7 @@ export default (req, res, next) => {
 
     if (!decodedToken)
     return res.status(401)
-        .send({message: 'Sorry, token is invalid'});
+        .send({message: 'Token is invalid'});
 		
 		if(Date.now() > decodedToken.iat){
 			return res.status(401)
